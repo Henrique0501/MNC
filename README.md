@@ -1,4 +1,7 @@
 # MNC
+
+Link do vídeo no qual comento sobre a aplicabilidade do software: https://www.youtube.com/watch?v=OoS6Ucxzduw
+
 Trata-se de um software capaz de realizar ajuste de curvas experimentais obtidas por uma balança analítica para a massa aparente de amostras de nanopartículas magnéticas em função do tempo. O ajuste pode ser feito a partir de três métodos: Método dos Mínimos Quadrados, Método de Monte Carlo e Algoritmo Genético. A partir desse ajuste, o software é capaz de obter estimativas para a constante de anisotropia magnética efetiva (*Kef*) da amostra analisada.
 
 ## Sobre os métodos de ajuste
